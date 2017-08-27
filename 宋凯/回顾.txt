@@ -1,0 +1,2 @@
+git push origin master如果提示身份验证失败就是用户名或密码错误
+fork一个项目，就是讲别人的项目复制到我的GitHub上（自动跳转我的GitHub上），然后再复制到本地客户端进行操作（通过cd进入该项目文件中）；如果想多人协作，可以在settings里面选择collaborators来添加协作者；添加协作者后，协作人员可以进入到我的GitHub复制项目并操作，提交。最后我将修改的项目传给原作者需要用pull request；由原作者进行合并。
